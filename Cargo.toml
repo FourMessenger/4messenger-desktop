@@ -1,0 +1,7 @@
+[package]
+name = "fourmessenger-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+webview2-browser = "0.1.3"
